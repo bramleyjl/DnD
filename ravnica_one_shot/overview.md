@@ -1,11 +1,10 @@
 # Ravnica Campaign Notes
 ## Act 1 - Discover the Crime
 ### Scene 1 - Murder Scene
--Tom discovers dead body (w/ Sean at scene, Azorius arresters arrive shortly after, including Will)
+-Tom discovers dead body (w/ Sean & Brown discovering the body at the same time as a Selesnya patrol)
 -two divergent paths to collect rest of party
 	- note from Orzhov
-	- examination of used murder weapon/wand
-	- follow mucus trail to discover krasis
+	- examination of used wand
 
 ### Scene 2/3/4 - Orzhov ??? (Need better setting idea)
 -Brown is auther of note
