@@ -1,7 +1,7 @@
-# Act 1
-## Scene 2/3 - Visit the shop
+# Session 1
+## Scene 1 - Discover the Crime
     
->  
+> Life in Ravnica was a great deal calmer now that the planeswalker Jace had accepted the mantle of the "The Living Guildpact" and the ten guilds had dialed preparations for all-out war back to their normal levels of politicking, subterfuge, and assassination. Still, life on the plane was never what you would call "safe", certainly not in Precinct 6, which was probably why Dante operated his now full-time private eye business out of it. Tonight, however, the ex-Boros investigator was out in the drizzle for personal reasons: an urgent message from his oldest friend.
 
 ```
 Dante,
@@ -25,7 +25,7 @@ Dante,
 
 ### Crime Scene Clues
 
-* **Aeranor's Belongings**: Any investigation of the body will reveal 3d6 zibs with 1d6 each zinos and Orzhov alms coins. The unsigned note reads: `I've managed to secure leniency for you thus far, but even my patience is at its end. Tomorrow, noon, at the Milanian Chapel.` 
+* **Aeranor's Belongings**: Any investigation of the body will reveal 3d6 zibs with 1d6 each zinos and Orzhov alms coins. The unsigned note reads: `I've managed to secure leniency for you thus far, but even my patience is at its end. Tomorrow, dusk, at the Milanian Chapel.` 
     * `Religion - 12`: The Milanian Chapel is a smaller Orzhov church on the edge of the precinct that has of late been mostly passed over in favor of a new, larger church nearby. It is also uncomfortably close to The Gore House and thus Rakdos territory.
 
 * Body: Elaborate on description of body: facedown, very grubby, blast hole through body over heart area, very obviously looks unnatural.
@@ -33,11 +33,11 @@ Dante,
     * `ARCANA - 13` determines that the wound was magical in origin
 
 * Gawkers: pair of lamplighter-looking scruffy human males, middle aged, an apparently orphan elf girl, street merchant woman w/ small cart of wares. Lamplighters loudly 
-    * `Persuasion - 10` gets girl to say she saw "rag man" running away. no description beyond big/scary/rags/couldn't see face. Follow her directions points you down a left turn alley that runs into a crosstreet. Traffic is low and no one appears to have seen anyone matching the description. 
+    * `Persuasion - 10` gets girl to say she saw "rag man" running away. no description beyond big/scary/rags/couldn't see face. Follow her directions points you down a right then left turn alley that runs into a crosstreet. Traffic is low and no one appears to have seen anyone matching the description. 
         * `INVESTIGATION/PERCEPTION - 13` leads to a gaggle(3) of goblins all loudly tugging and pulling over a brass and gold stick that appears to be a wand.
             * `PERSUASION - 15 / INTIMIDATION - 13` - to get them to give you the wand, goblins can also be bribed to lower persuasion DC
             * if persuasion/intimidation fails they have a [50/50 chance of attacking and trying to rob you.](https://www.dndbeyond.com/encounters/1f7743a4-1e13-4883-b3eb-aae87d48daf3)
-            * Wand: Brass inlaid with gold, this appears to be a manacrystal charged wand. At the end of the roughly footlong baton there is a small wire cage wrapped around a spent (cracked and dull) mana crystal. The wand itself is still very vaulable and with additional crystal could be rendered operational again. `ARCANA - 15` lets the party member know which area(where is the wand shop?) that is known for producing this kind of wand.
+            * Wand: Brass inlaid with gold, this appears to be a manacrystal charged wand wit the name `Izoter` enscribed on the back. At the end of the roughly footlong baton there is a small wire cage wrapped around a spent (cracked and dull) mana crystal. The wand itself is still very vaulable and with additional crystal could be rendered operational again. `ARCANA - 15` lets the party member know which area(where is the wand shop?) that is known for producing this kind of wand.
 
 
 * **Krasis**: A `PERCEPTION 15` (sound, faint mix of croaking and chirping) will lead party to discover the krasis. The krasis is young and still imprinting, it will return to look at Aeranor's body but will attach itself strongly to the first party member to treat it kindly, especially if they offer it food.
@@ -48,4 +48,4 @@ Dante,
 
 ## Moving On
 
-*Party can decide to either followup on lead from the note (head to chapel) or wand info (head to wand shop). Either will have to wait for the following day since it is now well after dark and those places are closed/no one will be there at present.
+*Party will follow up on the wand the following day since it is now well after dark and those places are closed/no one will be there at present.

@@ -1,5 +1,5 @@
 # Ravnica Campaign Notes
-## Act 1 - Discover the Crime
+## Session 1 - Discover the Crime
 ### Scene 1 - Murder Scene
 -Tom discovers dead body (w/ Sean & Brown discovering the body at the same time as a Selesnya patrol)
 -two divergent paths to collect rest of party
@@ -16,8 +16,8 @@
 -Will is on the scene investigating shop
 -additional intrigue with burglary: Krenko/goblins hired to smash and destroy covering up stealthy Dimir theft of most powerful weapons
 
-## Act 2 - Follow the Evidence
--info from orzhov cleric leads to Rakdos-themed club, was dead man's regular hangout and supposed to be site of debt repayment
+## Session 2 - Follow the Evidence
+-info from orzhov cleric leads to Rakdos-themed club Keever's Kleavers, was dead man's regular hangout
 
 -Dimir know party is on to them at this point and provoke Rakdos fight
 -party tracks Dimir agent into the wilds following club fight
