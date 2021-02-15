@@ -11,9 +11,13 @@
     * When questioned he'll reveal that he's here to meet Aeranor who is *super* behind on his debt, like "we own you forever to and to make sure it's really forever we'd rather own your ghost than your body so get ready for a change of existance" behind.
     * `Persuasion 11` will get him to detail that it was a gambling debt, and that Aeranor had met with him several days ago at this chapel to give him his final warning. Recently Aeranor hadn't even been servicing the interest he was so broke so Penaleus was running out of patience. Aeranor had promised him that he had something to wipe away all of his debt, a secret that was incredibly valuable. If pressed he won't elaborate, saying a secret isn't very valuable if a bunch of gutter trash like themselves knew about it. `Persuasion 15` will get him to give up he had previously called upon Aeranor at `Keever's Kleavers`, down uncomfortably close to Rix Maadi, and where Aeranor had been something of a regular, as well as that Aeranor had been paranoid that someone else besides the Orzhov was after him and was afraid to meet with him with the proof of the secret.
     * If the party has the krasis he will eventually begin to question them about it and reveal that Areanor mentioned the secret had something to do with the Simic. He will at that point accept that Aeranor is dead but demand his debt be fulfilled by the party handing over the krasis.
-    * If the party does not have the krasis or has it and refuses to give it to him he will demand that they cover his debt, if they refuse he will sigh that at least the forclosure on their corpses and possessions will close out the account with a bit of profit and attack. `Persuasion 20` can get him to accept half (150g) of the 300g debt he claims is owed OR a legal Orzhov contract with Brown for the sum (Brown must persuade him of his wealth).
+    * If the party does not have the krasis or has it and refuses to give it to him he will demand that they cover his debt, if they refuse he will sigh that at least the forclosure on their corpses and possessions will close out the account with a bit of profit and attack. `Persuasion 20` can get him to accept about half of the 350g debt he claims is owed OR a legal Orzhov contract with Brown for the sum (Brown must persuade him of his wealth).
     * Combat link: https://www.dndbeyond.com/encounters/c740e58a-7ede-41bb-b1cf-64d577dbe0c8/edit
-
+    * Penaleus Belongings:
+        * 3g30s
+        * Ledger/balance sheet noting his debtors, their original amounts owed, whether or not they've paid it off yet, current amount, etc. Areanor's name and the 350g owed is on it
+        * Rather blank form notice from `Delenor` noting that income collections from this diocese are down and demanding at least 10% increase in income before the next moon or consequences.
+        * Hastily scrawled map to `Keaver's Kleavers`, no legend or writing besides the name of the establishment
 ---
 
 ## Moving On
