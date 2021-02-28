@@ -20,16 +20,18 @@
         * Dynamic chase: think of the chase from the Man In Rags' perspective: He's a Dimir agent that now knows for sure he hasn't tied up all of the loose ends to this. He wants to escape to his safe house so that he can lose the party and then plan for their murder later.
             * General setting: Dark, so relatively quiet streets but Rakdos area so more nocturnal (and psycho) activity than in other parts of the city. Some nighttime vendors, the occasional watchman, groups of revelers, etc.
             * If Man In Rags gets sufficienty far away (> 100 ft?) he will attempt a hide check and the party will have to beat it with their perception or he'll sucessfully escape.
-            * Encounter (tone numbers down slightly): https://www.dndbeyond.com/encounters/13185375-8d45-448d-b681-b471ba73bae3
+            * Encounter (tone numbers up slightly): https://www.dndbeyond.com/encounters/13185375-8d45-448d-b681-b471ba73bae3 
             * Chase details/checks:
-                * Man In Rags casts spell on closest member to fuck with others further behind:
+                * Does a hide/sneak attack combo
                 * Push through a crowd in an alley
                 * If Man In Rags is > 50 feet ahead have a T intersection where they have to guess which way he went
                 * Run through a night market with additional places to hide
                 * After 3-5 mini-encounters/rolls have Man In Rags make it to sewer entrance for safehouse
-            * Man in Rags will fight to the death or kill himself rather than be taken alive. If killed party can reveal with *Wisdom 10* that he was a vampire, and *Intelligence 15* that he was a minddrinker of Momir Vosk's lineage. *Wisdom 10* will note the wear on his clothes and boots, and *Wisdom/Int 15* can indicate a possible area of the Golgari or Gruul lands further to the south and east.
+            * Man in Rags will fight to the death or kill himself rather than be taken alive. *Wisdom 10* will note the wear on his clothes and boots (boots are also wet from sewer), and *Wisdom/Int 15* can indicate a possible area of the Golgari or Gruul lands further to the south and east.
+                * Appearence: human, age difficult to tell from heavy amount of scarring, maybe that's he's clothed all in rags?
                 * Possessions
                     * dagger
+                    * money pouch with 2d6 gold and 1d4 silver
                     * small leather pouch with a few corked beakers and herbs. *Int 15* reveals that there are a number of powerful elixirs that could be created with them as well as a number of deadly poisons/efficient ways to kill someone. Also in one pouch pocket are 3 silver extraordinarily battered coins and a small scrap of paper: `unblinking eye` -> `xqeolqnlqj hbh`
         * Safehouse:
             > The man turns yet another blind alley and is gone again, this time seeming to disappear into thin air.
@@ -44,6 +46,4 @@
 
 ## Moving On
 
-* If party gets name `Keaver's Kleavers` from Penaleus then they know they should go to Keever's Kleavers since Aeranor was known to hang around here.
-
-* If party doesn't have the name of the bar they will have to ask around about a `sadistic gore house` and `expensive/fancy man with 2 thrulls` to eventually put together that Penaleus was seen around Keaver's Kleavers, this will take several days.
+* If the party accesses the Dimir Safehouse they can go there, if not then the Rubblebelt

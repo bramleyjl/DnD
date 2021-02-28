@@ -20,19 +20,12 @@
 -info from orzhov cleric leads to Rakdos-themed club Keever's Kleavers, was dead man's regular hangout
 
 -Dimir know party is on to them at this point and provoke Rakdos fight
--party tracks Dimir agent into the wilds following club fight
+-party chases down Dimir agent and through him finds the Dimir Safehouse
 
-## Act 3 - Discover the Laboratory
+## Session 3 - Dimir Safehouse (optional)
+
+## Session 4 - Discover the Laboratory
 -journey into undercity through gruul lands
 
 -Gruul encounter (probably a fight)
 -Golgari encounter (diplomacy more possible, can gain temporary ally)
-
-## Act 4 - Battle at the Lab
--fight actual assassin, scientist, initial test krasis subjects
--discover full extent of dimir plot to supplant normal krasii with their own
-
-## Act 5 - Warn the Simic
--party fights/sneaks/diplomats their way into the heart of Simic territory
--big ol' fight with multiple corrupted krasii
--add options for other faction lieutenants to help if party has contacted them earlier? (Golgari from undercity, Boros via Tom, Orzhov via Brown)
