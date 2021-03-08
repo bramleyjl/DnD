@@ -28,10 +28,12 @@
                 * Run through a night market with additional places to hide
                 * After 3-5 mini-encounters/rolls have Man In Rags make it to sewer entrance for safehouse
             * Man in Rags will fight to the death or kill himself rather than be taken alive. *Wisdom 10* will note the wear on his clothes and boots (boots are also wet from sewer), and *Wisdom/Int 15* can indicate a possible area of the Golgari or Gruul lands further to the south and east.
-                * Appearence: human, age difficult to tell from heavy amount of scarring, maybe that's he's clothed all in rags?
+                * Appearence: human, age difficult to tell from heavy amount of scarring on face, maybe that's he's clothed all in rags? His body has blue and black tattoos that an *Intelligence 15* will interpret to folk/nonsense charms professional thieves and spies often get
+                * Captured: Man in Rags will refuse to engage with party, and when given the opportunity make a Sleight of Hand check to poison himself to prevent givin up information
                 * Possessions
                     * dagger
                     * money pouch with 2d6 gold and 1d4 silver
+                    * encoded thought: "Proof is demanded of our work. Bring a specimen to me, night of the new moon (night after nextr), use the underground entrance"
                     * small leather pouch with a few corked beakers and herbs. *Int 15* reveals that there are a number of powerful elixirs that could be created with them as well as a number of deadly poisons/efficient ways to kill someone. Also in one pouch pocket are 3 silver extraordinarily battered coins and a small scrap of paper: `unblinking eye` -> `xqeolqnlqj hbh`
         * Safehouse:
             > The man turns yet another blind alley and is gone again, this time seeming to disappear into thin air.
