@@ -18,6 +18,7 @@
 * Upstairs they will encounter Vessmer immediately, as he is in the safehouse's living quarters reading correspondance. If encountered with the krasis he will immediately be somewhat suspicious and demand to know who they are and why they have his krasis several days early, with a little prompting he will reveal that Kismus (The Rag Man) was supposed to be bringing over the beast himself for the demonstration?
     * Vessmer is a tall, gaunt-looking man with thin black hair that clings to his skull, and wears incredbly-numerously layered robes that appear like in sum they weigh a ton. *Int 12* reveals he is a lesser vampire though still (remotely) from Szadek's lineage.
     * Absent a sufficiently good explanation he will immediately attack. With one he will interrogate further, asking for a complete account of how they know Kismus and the timeline of them bringing the krasis to him.
+        * He included details? Something written, perhaps that you could not read? No, was he fool enough to give you details himself? This one is infectious, yes?
         * Let me guess, he's tying up that "lose end" of his that he said might make him miss the deadline? But if so then why so early?
         * So is the beast ready? It has the modifications that our pet biomancer (Zendoria) promised? If pressed on this he will reveal details about Gruul wilds and the secret lab there.
         * Location: past Svogthos into the Gruul wilds, away from prying eyes and we didn't want any of the beasts managing to get all the way back to Novigen in case they got out
@@ -38,3 +39,4 @@
 
 ## Moving On
 
+* Hopefully party now knows that they should be going to the goddamn Rubblebelt

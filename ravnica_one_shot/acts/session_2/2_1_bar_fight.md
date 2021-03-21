@@ -34,12 +34,17 @@
                     * dagger
                     * money pouch with 2d6 gold and 1d4 silver
                     * encoded thought: "Proof is demanded of our work. Bring a specimen to me, night of the new moon (night after nextr), use the underground entrance"
-                    * small leather pouch with a few corked beakers and herbs. *Int 15* reveals that there are a number of powerful elixirs that could be created with them as well as a number of deadly poisons/efficient ways to kill someone. Also in one pouch pocket are 3 silver extraordinarily battered coins and a small scrap of paper: `unblinking eye` -> `xqeolqnlqj hbh`
+                    * small leather pouch with a few corked beakers and herbs. *Int 15* reveals that there are a number of powerful elixirs that could be created with them as well as a number of deadly poisons/efficient ways to kill someone. Also in one pouch pocket are 3 silver extraordinarily battered coins and a small scrap of paper: `unblinkingeye` -> `xqeolqnlqjhbh`
         * Safehouse:
             > The man turns yet another blind alley and is gone again, this time seeming to disappear into thin air.
+
                 * `Wisdom 15` will let party member hear, see, or smell (+2 for any specific sense mentioned) evidence that there is a sewer grate that looks recently disturbed. Following down it you will hear splashing of feet with another `Wisdom 15` or else be able to follow a `Wisdom 12` blood trail if the Man in Rags was wounded. Party can still track him down before he makes it to safe house if they make a *Wisdom 15* check, else he makes it inside.
-                * Succeeding on either of the earlier checks take them to the safehouse entrance, if they fail both then a *Wisdom 20* check will pick up the trail. If they fail that then they have nothing (prompt them to review and follow up on Aeranor's living in the Rubblebelt)
-                * > An especially narrow pice of sewer, far away from any natural light source. Party member notices that a bit of wall looks a little off, almost too new or clean to belong to the rest. Party investigating will have a glyph of (Fear)[https://roll20.net/compendium/dnd5e/Fear#content] cast on all of them, plus a phantom monster to fight with. Once they realize the trick an *Int 15* check can realize the stone wall is an illusion for what appears to be an equally-stone and unmovable but quiet smooth and pristine stone wall behind it. Figuring out the passphrase will cause a Dimir signet to slowly fade into view on the surface of the wall before the stone silently slides down and reveals a narrow staircase that travels back a few feet before appearing to spiral up into the darkness.
+                * Succeeding on either of the earlier checks take them to the safehouse entrance, if they fail both then a *Wisdom 20* check will pick up the trail. If they fail that then have them discover MiR's stash in the entrance area, hidden in the opening of a nonfunctioning pipe there is a tightly sealed box that a *Wisdom 12* will reveal, containing
+                    * caesar cipher paper `xqeolqnlqjhbh` & 3 silver battered coins
+                    * rough map to safehouse location
+                    * 2d4 gold
+                    * traveling gear, pack with supplies, heavy mud-slattered boots, heavy cloak, climbing/rappeling supplies
+            > An especially narrow pice of sewer, far away from any natural light source. Party member notices that a bit of wall looks a little off, almost too new or clean to belong to the rest. Party investigating will have a glyph of [Fear](https://roll20.net/compendium/dnd5e/Fear#content) cast on all of them, plus a phantom monster to fight with. Once they realize the trick an *Int 15* check can realize the stone wall is an illusion for what appears to be an equally-stone and unmovable but quiet smooth and pristine stone wall behind it. Figuring out the passphrase will cause a Dimir signet to slowly fade into view on the surface of the wall before the stone silently slides down and reveals a narrow staircase that travels back a few feet before appearing to spiral up into the darkness.
 
 
 
