@@ -1,5 +1,5 @@
 # Session 2
-## Scene 2 - Dimir Safehouse
+## Scene 2 - Dimir Safehouse // 5th District Publishing
 
 > Walking up the spiral staircase you are confronted at the top with a smooth, well-maintained wooden door. On the other side appears to be some sort cellar or basement, the cool air indicating that you're still underground. Or perhaps "prison" would be more apt, with the floor-to-ceiling bars to one side and neat (except for the blood) rack of torture implements on the other.
 
